@@ -1,0 +1,213 @@
+.taxi {
+    background-color: #3B3B3B;
+    padding: 15px 3px 15px 3px;
+    
+}
+
+.taxi-title h1 {
+    color: white;
+    font-family: impact;
+    font-size: 50pt;
+    text-align: center;
+}
+
+.header {
+    
+    padding-bottom: 40px;
+    margin-top: 20px;
+    padding-top: 20px;
+    
+    
+    
+}
+
+.taxi-picture img {
+    margin-top: 20px;
+}
+
+.crime-text h3 {
+    text-align: left;
+    font-family: impact;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 40px;
+}
+
+.crime-text-2 h3 {
+    text-align: center;
+    font-family: impact;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.crime-text-2 a {
+    text-align: center;
+    color: #3B3B3B;
+   
+}
+
+
+
+
+
+.title h1 {
+    text-align: center;
+    font-family: impact;
+    font-weight: bold;
+    font-size: 56pt;
+    padding-bottom: 20px;
+    padding-top: 0px;
+}
+
+.intro-text p {
+    
+   
+    font-size: 12pt;
+
+   
+    font-family: arial;
+}
+
+.footer-text a {
+    text-decoration: none;
+    color: white;
+    font-family: impact;
+    
+}
+
+.footer-text a:hover {
+    text-decoration: none;
+    color: #ccc;
+    font-family: impact;
+}
+
+.footer-text {
+    margin-top: 20px;
+}
+
+.taxi-picture {
+    margin-top: 10px;
+}
+
+.footer {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+
+.footer a{
+    
+    text-align: center;
+}
+.content {
+    padding-bottom: 20px;
+}
+
+.stat-background {
+   background: linear-gradient( transparent, #FFE800, #FFE800, transparent);
+   padding: 20px;
+  
+}
+
+.line-content {
+  /*  background-color: white;*/
+}
+
+.stat-text p {
+    margin-top: 0px;
+    color: #3B3B3B;
+    font-size:14pt;
+    font-family: arial;
+    font-weight: bold;
+    padding-top: 15px;
+    text-align: left;
+}
+
+.line-content {
+    padding-top: 40px;
+}
+
+.stat-text img {
+    margin-top: 10px;
+}
+
+.stat-text a {
+    margin-top: 0px;
+    color: #AAAAAA;
+    font-size: 14pt;
+    font-family: arial;
+    font-weight: bold;
+}
+
+.facts {
+    background-color: #4C4C4C;
+    padding: 0px;
+    
+}
+
+.pie_text h3{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: impact
+}
+
+path:hover {
+ 
+    background-color: #FFE800;
+    fill: #FFE800;
+}
+
+polygon:hover {
+   
+        background-color: #FFE800;
+          fill: #FFE800;
+}
+
+@media screen and (max-width: 660px) {
+    
+    .stat-text p {
+    margin-top: 0px;
+    color: #3B3B3B;
+    font-size:8pt;
+    font-family: arial;
+    font-weight: bold;
+    padding-top: 0px;
+}
+    
+    
+    .stat-text a {
+    margin-top: 0px;
+    color: #AAAAAA;
+    font-size: 8pt;
+    font-family: arial;
+    font-weight: bold;
+}
+    
+    .intro-text p {
+    
+   
+    font-size: 8pt;
+    font-weight: bold;
+   
+    font-family: arial;
+}
+   
+   .taxi-title h1 {
+    color: white;
+    font-family: impact;
+    font-size: 28pt;
+    text-align: center;
+}
+    
+}
+
+
+.facts img {
+    padding-bottom: 60px;
+}
+
+.table.dataTable.stripe tbody tr.odd, table.dataTable.display tbody tr.odd {
+    background-color: #FFFFE7;
+}
+
